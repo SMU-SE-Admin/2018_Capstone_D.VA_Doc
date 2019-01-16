@@ -102,3 +102,18 @@
   * Daily Build 수행
 - Maven3 : 빌드 시스템
   * 동일한 빌드 구조 생성
+
+# 문서
+- [프로젝트 계획서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/01%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C%20Ver%201.0.1.pdf)
+
+- [요구사항 명세서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/02%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%B6%84%EC%84%9D/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EB%AA%85%EC%84%B8%EC%84%9C%201.3.2.pdf)
+
+- 설계서
+  * [Java Class 설계서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/03%20%EC%84%A4%EA%B3%84/Java%20Class%20Design.pdf)
+  * [Python Class 설계서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/03%20%EC%84%A4%EA%B3%84/Python%20Class%20Design.pdf)
+  * [UI 설계서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/03%20%EC%84%A4%EA%B3%84/UI%20Design.pdf)
+
+- 테스팅
+  * [테스트 결과 보고서](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/05%20%ED%85%8C%EC%8A%A4%ED%8C%85/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+  * [테스트케이스 이력](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/05%20%ED%85%8C%EC%8A%A4%ED%8C%85/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4_%EC%9D%B4%EB%A0%A5.pdf)
+  * [테스트케이스](https://github.com/SMU-SE-Admin/2018_Capstone_D.VA_Doc/blob/master/05%20%ED%85%8C%EC%8A%A4%ED%8C%85/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4.pdf)
